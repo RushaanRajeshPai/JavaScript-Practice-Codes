@@ -1,0 +1,16 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+#mode{
+    background-color: lawngreen;
+    color: midnightblue;
+    border: 1px solid black;
+    margin: 20px;
+}

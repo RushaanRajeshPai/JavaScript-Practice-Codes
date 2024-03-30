@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 12px;
+    background-color: pink;
+}
+
+button{
+    background-color: aqua;
+    color: crimson;
+}
