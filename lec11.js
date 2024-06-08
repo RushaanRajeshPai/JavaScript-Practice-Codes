@@ -6,7 +6,7 @@ const employee = {                              //object1
 };
 
 const rushaanPai = {                            //object2
-    salary : 5000000,
+    salary : 50000000,
 };
 
 rushaanPai.__proto__ = employee; //Method : object2.__proto__ = object1
